@@ -1,0 +1,30 @@
+The final result will be shown in your working directory, named as "Dataresult.txt"
+
+Group.1 is the subject of the raw data
+Group.2 is the activity of the raw dat
+
+the other features are as below:
+
+These signals were used to estimate variables of the feature vector for each pattern:  
+'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
+and only contained the mean and stadard deviation of these features.
+the data in the final results file is the average of the mean and std for each subject and each activity.
